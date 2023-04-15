@@ -4,7 +4,11 @@
   
   <h3>Backend Developer at TuNiB</h3>
   
+  <br/>
+  
   <a href="https://jumpy-hat-28b.notion.site/a9bee18a17314536bf86388af84b9fe5">Portfolio</a>
+  
+  <br/>
   
   <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika" style="width: 400px; height: auto;" alt="Leetcode"/>
   
