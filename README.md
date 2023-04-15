@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=55&fontColor=868686)
   
-  <h2>Backend Developer at TuNiB<h2/>
+  <h3>Backend Developer at TuNiB<h3/>
   
   <br/>
   
