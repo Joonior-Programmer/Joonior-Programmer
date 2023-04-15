@@ -8,7 +8,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>
   
-  <br/>><br/>
+  <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joonior-Programmer&layout=compact&theme=dark&langs_count=8" style="width:400px; height: auto;" alt="Top Languages"/>
 
