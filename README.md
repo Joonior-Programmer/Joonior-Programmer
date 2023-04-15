@@ -2,11 +2,11 @@
 
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=55&fontColor=868686)
   
-  ##Backend Developer at TuNiB
+  ##[Backend Developer at TuNiB]
   
   <br/>
   
-  ###Portfolio(https://jumpy-hat-28b.notion.site/a9bee18a17314536bf86388af84b9fe5)
+  ###[Portfolio](https://jumpy-hat-28b.notion.site/a9bee18a17314536bf86388af84b9fe5)
   
   <br/>
   
