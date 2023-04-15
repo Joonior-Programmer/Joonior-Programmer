@@ -2,11 +2,11 @@
 
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=65&fontColor=868686)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark)
-
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joonior-Programmer&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="height: auto; width=400px;" alt="Github Status"/>
+  
+  <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika" style="height: auto; width=400px;" alt="Leetcode"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joonior-Programmer&layout=compact&theme=dark&langs_count=8" style="height: auto; width=400px;" alt="Top Languages"/>
 
 </div>
 
