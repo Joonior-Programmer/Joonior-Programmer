@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=65&fontColor=868686)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=60&fontColor=868686)
   
   <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika" style="width: 400px; height: auto;" alt="Leetcode"/>
   
