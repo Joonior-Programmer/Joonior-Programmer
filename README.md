@@ -4,7 +4,11 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="height: auto; width=400px;" alt="Github Status"/>
   
+  <br/>
+  
   <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika" style="height: auto; width=400px;" alt="Leetcode"/>
+  
+  <br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joonior-Programmer&layout=compact&theme=dark&langs_count=8" style="height: auto; width=400px;" alt="Top Languages"/>
 
