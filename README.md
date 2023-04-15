@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=65)
-
 <div align="center">
 
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=65)
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark)
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika)
