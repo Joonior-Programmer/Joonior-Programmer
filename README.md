@@ -2,13 +2,13 @@
 
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=65&fontColor=868686)
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>
+  <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika" style="width: 400px; height: auto;" alt="Leetcode"/>
   
-  <br/>
+  <br/><br/>
   
-  <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika" style="width: 400px; height: auto; border: 2px solid white;" alt="Leetcode"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>
   
-  <br/>
+  <br/>><br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joonior-Programmer&layout=compact&theme=dark&langs_count=8" style="width:400px; height: auto;" alt="Top Languages"/>
 
