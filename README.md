@@ -6,7 +6,7 @@
   
   <br/><br/>
   
-    <img src="https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>
   
   <br/>><br/>
   
