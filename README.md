@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Joonior%20Programmer%20\   (%20Joon%20\)&fontSize=65) 
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Joonior%20Programmer%20\%20Joon%20\)&fontSize=65)
 
 <div align="center">
 
