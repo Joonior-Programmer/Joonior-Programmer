@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Joonior%20Programmer%20/%20Joon&fontSize=90)    
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Joonior%20Programmer%20/%20Joon&fontSize=70)    
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=radical)
 
