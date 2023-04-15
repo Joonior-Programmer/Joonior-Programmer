@@ -6,7 +6,7 @@
   
   <br/>
   
-  <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika" style="width: 400px; height: auto;" alt="Leetcode"/>
+  <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika" style="width: 400px; height: auto; border: 2px solid white;" alt="Leetcode"/>
   
   <br/>
   
