@@ -6,7 +6,11 @@
   
   <br/>
   
-  <a href="https://jumpy-hat-28b.notion.site/a9bee18a17314536bf86388af84b9fe5">Portfolio<a/>
+  <a href="https://jumpy-hat-28b.notion.site/a9bee18a17314536bf86388af84b9fe5">Portfolio KOR<a/>
+    
+  <br/>
+    
+  <a href="https://jumpy-hat-28b.notion.site/Hello-This-is-Joon-bfd4796334504cf681252b5e896db667">Portfolio ENG<a/>
   
   <br/>
   
