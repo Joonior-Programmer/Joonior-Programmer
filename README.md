@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=55&fontColor=868686)
   
-  <h3>Backend Developer | Grumatic - Prev @TuNiB<h3/>
+  <h3>Backend Developer | @Grumatic - Prev @TuNiB<h3/>
   
   <br/>
   
