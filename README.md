@@ -14,7 +14,7 @@
   
   <br/>
   
-  <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika" style="width: 400px; height: auto;" alt="Leetcode"/>
+  <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika&cache=3600" style="width: 400px; height: auto;" alt="Leetcode"/>
   
   <br/><br/>
   
