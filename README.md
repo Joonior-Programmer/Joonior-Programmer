@@ -15,8 +15,9 @@
   <br/>
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Sunflower&cache=3600)
+  <!--
   <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika&cache=3600" style="width: 400px; height: auto;" alt="Leetcode"/>
-  
+  -->
   <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>
