@@ -12,7 +12,7 @@
   -->
   <br/><br/>
     
-  ![https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Sunflower&cache=3600](https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Sunflower&cache=3600)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=PT%20Sans)
   
   <!--
   <img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark&font=Andika&cache=3600" style="width: 400px; height: auto;" alt="Leetcode"/>
