@@ -3,7 +3,7 @@
   <!--
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=55&fontColor=868686)
   -->
-  <h3>Backend Developer | @Grumatic - Prev @TuNiB<h3/>
+  <h3>Backend Developer | Prev @Grumatic, @TuNiB<h3/>
   <!--
   <br/>
   <a href="https://jumpy-hat-28b.notion.site/a9bee18a17314536bf86388af84b9fe5">Portfolio KOR<a/>
@@ -21,8 +21,7 @@
   -->
   <br/><br/>
   
-[  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
-)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>
   
   <br/><br/>
   
