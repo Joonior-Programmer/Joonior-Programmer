@@ -21,7 +21,8 @@
   -->
   <br/><br/>
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>
+[  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
+)
   
   <br/><br/>
   
