@@ -25,7 +25,7 @@
   
   <br/><br/>
   
-  <img src="https://github-readme-stats-sigma-five.app/api/top-langs/?username=Joonior-Programmer&layout=compact&theme=dark&langs_count=8" style="width:400px; height: auto;" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joonior-Programmer&layout=compact&theme=dark&langs_count=8" style="width:400px; height: auto;" alt="Top Languages"/>
 
 </div>
 
