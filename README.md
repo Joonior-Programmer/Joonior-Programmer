@@ -21,11 +21,11 @@
   -->
   <br/><br/>
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>
+  <img src="https://github-readme-stats-git-sigma-five.vercel.app/api?username=Joonior-Programmer&show_icons=true&theme=dark" style="width:400px; height: auto;" alt="Github Status"/>
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joonior-Programmer&layout=compact&theme=dark&langs_count=8" style="width:400px; height: auto;" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joonior-Programmer&layout=compact&theme=dark&langs_count=8" style="width:400px; height: auto;" alt="Top Languages"/>
 
 </div>
 
