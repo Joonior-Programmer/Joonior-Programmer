@@ -12,7 +12,10 @@
   -->
   <br/><br/>
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark)
+  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark) -->
+
+  ![LeetCode Stats](https://leetcode-status.vercel.app/api/card/Joonior-Programmer?theme=dark)
+
 
   <!--<img src="https://leetcard.jacoblin.cool/Joonior-Programmer?theme=dark" style="width:400px; height: auto;" alt="Leetcode Status"/> -->
   
