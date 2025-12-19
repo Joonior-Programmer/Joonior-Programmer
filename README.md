@@ -6,13 +6,21 @@
   <h3>Backend Engineer | Prev @Grumatic, @TuNiB</h3>
 
   <h4>
-    <a href="https://www.credly.com/badges/e286b822-7347-445b-84ca-677b421d6dee/linked_in_profile" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.credly.com/badges/e286b822-7347-445b-84ca-677b421d6dee/linked_in_profile" style="color: inherit; text-decoration: underline;">
       FinOps Practitioner
     </a>
   </h4>
 
-<h3>AWS Certified Solution Architect - Associate</h3>
-<h3>AWS Certified Cloud Practitioner</h3>
+<h4>
+  <a href="https://www.credly.com/badges/29009f68-cc3c-4ea1-ace9-f5e89afd07b6/public_url" style="color: inherit; text-decoration: underline;">
+    AWS Certified Solution Architect - Associate
+  </a>
+</h4>
+<h4>
+  <a href="https://www.credly.com/badges/9b0a2013-6db3-45b0-b3c6-d14588a44426/public_url" style="color: inherit; text-decoration: underline;">
+    AWS Certified Cloud Practitioner
+  </a>
+</h4>
   <!--
   <br/>
   <a href="https://jumpy-hat-28b.notion.site/a9bee18a17314536bf86388af84b9fe5">Portfolio KOR<a/>
