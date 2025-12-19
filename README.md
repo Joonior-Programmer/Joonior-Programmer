@@ -3,8 +3,8 @@
   <!--
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Joonior%20Programmer%20\(%20Joon%20\)&fontSize=55&fontColor=868686)
   -->
-  <h3>Backend Engineer | Prev @Grumatic, @TuNiB<h3/>
-    <a href="https://www.credly.com/badges/e286b822-7347-445b-84ca-677b421d6dee/linked_in_profile"></a><h4>FinOps Practitioner<h4/><a/>
+  <h3>Backend Engineer | Prev @Grumatic, @TuNiB</h3>
+    <a href="https://www.credly.com/badges/e286b822-7347-445b-84ca-677b421d6dee/linked_in_profile"></a><h4>FinOps Practitioner</h4></a>
       <h3>AWS Certified Solution Architect - Associate<h3/>
         <h3>AWS Certified Cloud Practitioner<h3/>
   <!--
