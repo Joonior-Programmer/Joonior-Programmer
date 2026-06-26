@@ -6,6 +6,12 @@
   <h3>Backend Engineer | Prev @Grumatic, @TuNiB</h3>
 
   <h4>
+    <a href="https://www.credly.com/earner/earned/badge/3e86cd49-c76c-4993-b85d-3ae77058aacc" style="color: inherit; text-decoration: underline;" target="_blank" rel="noopener noreferrer">
+      Certified Kubernetes Administrator
+    </a>
+  </h4>
+
+  <h4>
     <a href="https://www.credly.com/badges/e286b822-7347-445b-84ca-677b421d6dee/linked_in_profile" style="color: inherit; text-decoration: underline;" target="_blank" rel="noopener noreferrer">
       FinOps Practitioner
     </a>
